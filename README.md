@@ -48,8 +48,6 @@ Two clustering techniques were compared to group phones by similar characteristi
 2. Run all cells in order
 3. Ensure the dataset file is in the same directory (or update the file path in the notebook)
 
-## Author
-V.DEVI SHRI-Third year ECE student, Kings College of Engineering
 
 ## Author
 Devi Shri — Third-year ECE student, Kings College of Engineering
